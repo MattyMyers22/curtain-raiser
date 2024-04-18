@@ -89,7 +89,7 @@ Host uniqueServerName
     User username
     Port 22
     Identityfile ~/.ssh/id_mykeyname-rsa.pub
-    HostKeyAlgoritms ssh-rsa
+    HostKeyAlgorithms ssh-rsa
 ```
 Replace the contents of each variable with names specific to your
 server.  Also note that the port may be customized by your
